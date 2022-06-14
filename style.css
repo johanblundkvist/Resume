@@ -3,11 +3,14 @@ body {
     font-size: 12px;
     max-width: 960px;
     margin: auto;
+    background: linear-gradient(rgb(134, 113, 113), white);
+
 }
 h1 {
     font-size: 3em;
     letter-spacing: .6em;
     padding-top: 1em;
+    
 }
 
 h2 {
